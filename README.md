@@ -65,7 +65,7 @@ Imagify does not require a traditional dataset. It leverages AI-based image gene
    git clone https://github.com/yourusername/imagify.git
    cd imagify
 
-## 🚀 Features
+## Features
 
 - 🧠 AI-powered text-to-image generation  
 - ☁️ Cloudinary integration for image storage  
