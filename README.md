@@ -15,7 +15,9 @@
 4. [Methods](#methods)  
 5. [Key Insights](#key-insights)  
 6. [How to Run Project](#how-to-run-project)  
-7. [Features](#Features)  
+7. [Features](#Features)
+8. [Author](#Author)
+9. [Contact](#Contact)
 
 
 ---
@@ -75,6 +77,18 @@ Imagify does not require a traditional dataset. It leverages AI-based image gene
 - ⚡ Responsive UI built with React  
 
 ---
+## Author
+
+**Name:** [RITIK RAJ]  
+**Role:** Full Stack Developer | DevOps Engineer | MERN Stack Developer  
+
+---
+
+## Contact
+
+- **Email:** [rritik345@gmail.com]  
+- **LinkedIn:** [https://www.linkedin.com/in/ritikraj0804](https://www.linkedin.com/in/ritikraj0804)  
+- **GitHub:** [https://github.com/Ritikrak](https://github.com/Ritikrak)  
 
 
 
